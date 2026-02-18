@@ -42,6 +42,3 @@ Performance of the models is evaluated based on:
 
 ## Conclusion
 Through effective data analysis and model training, we aim to provide a reliable diabetes prediction tool that can assist healthcare professionals in early diagnosis and intervention strategies.
-
-## Contributing
-Contributions to improve the project are welcome! Please fork the repository and submit a pull request for review.
