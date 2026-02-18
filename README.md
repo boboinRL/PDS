@@ -10,21 +10,11 @@ This project aims to develop a machine learning model to predict diabetes in ind
 - To provide a user-friendly interface for predictions.
 
 ## Dataset
-The data used in this project is sourced from various health-related databases and contains features such as:
-- Age
-- Glucose Level
-- BMI
-- Insulin Levels
-- Blood Pressure
-- Skin Thickness
+The data used in this project is sourced from various health-related databases.
 
 ## Machine Learning Algorithms
 We explore several algorithms, including but not limited to:
 - Logistic Regression
-- Decision Trees
-- Random Forest
-- Support Vector Machines (SVM)
-- Neural Networks
 
 ## Evaluation Metrics
 Performance of the models is evaluated based on:
